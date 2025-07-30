@@ -16,9 +16,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar
 
 
 ## Projetos Principais
-- **[Bike4Cash](https://github.com/luishenrique/bike4cash)** - Plataforma fullstack fictícia de aluguel de bicicletas.
-- **[Unicapas](https://github.com/luishenrique/unicapas)** - Landing page da loja Unicapas.
-- **[Flor de Açúcar](https://github.com/luishenrique/flor-de-acucar)** - Catálogo digital da loja Flor de Açúcar.
+- **[Bike4Cash](https://github.com/luissshc29/bike4cash)** - Plataforma fullstack fictícia de aluguel de bicicletas.
+- **[Unicapas](https://github.com/luissshc29/unicapas)** - Landing page da loja Unicapas.
+- **[Flor de Açúcar](https://github.com/luissshc29/flor-de-acucar)** - Catálogo digital da loja Flor de Açúcar.
 
 ## Minhas Estatísticas no GitHub
 ![Luis Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luissshc29&show_icons=true&theme=radical)
