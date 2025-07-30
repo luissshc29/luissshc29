@@ -2,10 +2,9 @@
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar soluções escaláveis e responsivas. Atualmente, desenvolvo principalmente com Typescript, Next.js, GraphQL e MySQL.
 
 ## Sobre Mim
-- 🎓 Estudante de ADS e entusiasta de programação
-- 👨‍💻 Desenvolvedor web full-stack
-- 🚀 Foco em performance, acessibilidade e SEO
-- 🌐 Confira meu portfólio: [luishenrique-dev.com.br](https://luishenrique-dev.com.br/)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e entusiasta de programação.
+- 👨‍💻 Desenvolvedor web full-stack.
+- 🌐 Confira meu portfólio: [luishenrique-dev.com.br](https://luishenrique-dev.com.br/).
 
 ## Principais tecnologias
 ![React](https://img.shields.io/badge/-React-192e3d?style=for-the-badge&logo=react)
@@ -17,9 +16,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar
 
 
 ## Projetos Principais
-- **[Bike4Cash](https://github.com/luishenrique/bike4cash)** - Plataforma de aluguel de bicicletas, com sistema completo de cadastro, login e transações.
-- **[Pokédex](https://github.com/luishenrique/pokedex)** - Aplicação web consumindo a PokeAPI para exibir uma lista completa de Pokémons.
-- **[Bloco de Notas Online](https://github.com/luishenrique/bloconotas)** - Aplicação para salvar e gerenciar notas diretamente no navegador.
+- **[Bike4Cash](https://github.com/luishenrique/bike4cash)** - Plataforma fullstack fictícia de aluguel de bicicletas.
+- **[Unicapas](https://github.com/luishenrique/unicapas)** - Landing page da loja Unicapas.
+- **[Flor de Açúcar](https://github.com/luishenrique/flor-de-acucar)** - Catálogo digital da loja Flor de Açúcar.
 
 ## Minhas Estatísticas no GitHub
 ![Luis Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luissshc29&show_icons=true&theme=radical)
@@ -27,7 +26,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar
 
 
 ## Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/luishenrique)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luishenrique-dev)
 - 📧 [Email (luishcc2003@gmail.com)](mailto:luishcc2003@gmail.com)
 - 📷 [Instagram (@luissshc_)](https://www.instagram.com/luissshc_/) 
 - 📱 [WhatsApp (+55 (85) 98951-3959) ](https://api.whatsapp.com/send/?phone=5585989513959&text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio.)
