@@ -1,9 +1,9 @@
 ﻿# Olá! Eu sou o Luis Henrique 👋
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar soluções escaláveis e responsivas. Atualmente, desenvolvo principalmente com Typescript, Next.js, GraphQL e MySQL.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor de software apaixonado por criar soluções escaláveis e responsivas. Atualmente, desenvolvo principalmente com Typescript, Next.js, GraphQL e MySQL.
 
 ## Sobre Mim
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e entusiasta de programação.
-- 👨‍💻 Desenvolvedor web full-stack.
+- 👨‍💻 Desenvolvedor de software pleno na [G4F](https://www.g4f.com.br/).
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Engenharia de Software.
 - 🌐 Confira meu portfólio: [luishenrique-dev.com.br](https://luishenrique-dev.com.br/).
 
 ## Principais tecnologias
@@ -29,4 +29,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por criar
 - 💼 [LinkedIn](https://www.linkedin.com/in/luishenrique-dev)
 - 📧 [Email (luishcc2003@gmail.com)](mailto:luishcc2003@gmail.com)
 - 📷 [Instagram (@luissshc_)](https://www.instagram.com/luissshc_/) 
-- 📱 [WhatsApp (+55 (85) 98951-3959) ](https://api.whatsapp.com/send/?phone=5585989513959&text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio.)
+- 📱 [WhatsApp (+55 (85) 98951-3959) ](https://api.whatsapp.com/send/?phone=5585989513959&text=Ol%C3%A1!%20Vim%20pelo%20seu%20Github.)
